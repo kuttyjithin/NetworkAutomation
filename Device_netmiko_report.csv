@@ -1,0 +1,11 @@
+hostname,MAC,type,serial,image,os_ver,os,hardware,uptime
+R1,[],CISCO2911/K9,FGL181310N6,c2900-universalk9-mz.SPA.155-3.M7.bin,15.5(3)M7,System,CISCO2911/K9,"1 hour, 1 minute"
+R2,[],ISR4321/K9,FLM2010W0CB,isr4300-universalk9.16.07.02.SPA.bin,16.7.2,IOS-XE,ISR4321/K9,57 minutes
+R3,[],ISR4321/K9,FLM2019W1KS,isr4300-universalk9.16.07.02.SPA.bin,16.7.2,IOS-XE,ISR4321/K9,58 minutes
+R4,[],CSR1000V,9PMAFD9C7E3,packages.conf,17.3.5,IOS-XE,CSR1000V,59 minutes
+R5,[],CSR1000V,93QWZ6NUEVQ,packages.conf,17.3.5,IOS-XE,CSR1000V,59 minutes
+R6,[],CSR1000V,9E3NOJNKN7Y,packages.conf,17.3.5,IOS-XE,CSR1000V,59 minutes
+SW1,['c0:14:fe:5e:89:80'],C9300-24T,FOC2422U0LV,packages.conf,17.3.6,IOS-XE,C9300-24T,"1 hour, 0 minutes"
+SW2,['bc:d2:95:f2:ad:80'],C9300-24T,FOC2521L6AU,packages.conf,17.3.6,IOS-XE,C9300-24T,"1 hour, 0 minutes"
+SW3,['00:c8:8b:dd:b4:80'],WS-C3650-24PS,FDO2005Q195,packages.conf,16.12.8,IOS-XE,WS-C3650-24PS,59 minutes
+SW4,['54:a2:74:34:5b:00'],WS-C3650-24PS,FDO1916E409,packages.conf,16.12.8,IOS-XE,WS-C3650-24PS,59 minutes

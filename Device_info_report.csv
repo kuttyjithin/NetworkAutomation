@@ -1,0 +1,4 @@
+hostname,type,serial,image,os_ver,os,hardware,uptime
+R1,[],CISCO2911/K9,FGL181310NA,c2900-universalk9-mz.SPA.155-3.M7.bin,15.5(3)M7,System,CISCO2911/K9,"4 days, 5 hours, 48 minutes"
+R2,[],ISR4321/K9,FDO2001A0EM,isr4300-universalk9.16.07.02.SPA.bin,16.7.2,IOS-XE,ISR4321/K9,"4 days, 5 hours, 45 minutes"
+R3,[],ISR4321/K9,FLM2010W0C7,isr4300-universalk9.16.07.02.SPA.bin,16.7.2,IOS-XE,ISR4321/K9,"4 days, 5 hours, 44 minutes"

@@ -1,0 +1,63 @@
+[
+{
+    "R4": {
+        "device_type": "cisco_ios",
+        "host": "192.168.3.4",
+        "hostname": "R4",
+        "username": "cisco",
+        "password": "cisco",
+        "interfaces": 
+                    { 
+                        "GigabitEthernet1":
+                                            {
+                                            "description":"test",
+                                            "ip address":"10.1.8.1",
+                                            "netmask":"255.255.255.0"
+                                            },
+                        "GigabitEthernet2":
+                                            {
+                                            "description":"test",
+                                            "ip address":"10.1.7.2",
+                                            "netmask":"255.255.255.0"
+                                            }                           
+                    },
+                    "router-config":
+                    {
+                        "protocol":"router ospf 1",
+                        "ip address":"10.1.1.1",
+                        "netmask":"255.255.255.0"
+                    }
+        
+    }
+},{
+    "R5": {
+        "device_type": "cisco_ios",
+        "host": "192.168.3.5",
+        "hostname": "R5",
+        "username": "cisco",
+        "password": "cisco",
+        "interfaces": 
+                    { 
+                        "GigabitEthernet1":
+                                            {
+                                            "description":"test",
+                                            "ip address":"10.1.7.1",
+                                            "netmask":"255.255.255.0"
+                                            },
+                        "GigabitEthernet2":
+                                            {
+                                            "description":"test",
+                                            "ip address":"10.1.6.2",
+                                            "netmask":"255.255.255.0"
+                                            }                        
+                    },
+                    "router-config":
+                    {
+                        "protocol":"router ospf 1",
+                        "ip address":"10.1.1.1",
+                        "netmask":"255.255.255.0"
+                    }
+        
+    }
+}
+]
